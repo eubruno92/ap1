@@ -1,0 +1,14 @@
+C:\Users\Bruno Costa\projects\lab-prog\ap1\pratica\bin\Debug\net8.0\pratica.exe
+C:\Users\Bruno Costa\projects\lab-prog\ap1\pratica\bin\Debug\net8.0\pratica.deps.json
+C:\Users\Bruno Costa\projects\lab-prog\ap1\pratica\bin\Debug\net8.0\pratica.runtimeconfig.json
+C:\Users\Bruno Costa\projects\lab-prog\ap1\pratica\bin\Debug\net8.0\pratica.dll
+C:\Users\Bruno Costa\projects\lab-prog\ap1\pratica\bin\Debug\net8.0\pratica.pdb
+C:\Users\Bruno Costa\projects\lab-prog\ap1\pratica\obj\Debug\net8.0\pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Costa\projects\lab-prog\ap1\pratica\obj\Debug\net8.0\pratica.AssemblyInfoInputs.cache
+C:\Users\Bruno Costa\projects\lab-prog\ap1\pratica\obj\Debug\net8.0\pratica.AssemblyInfo.cs
+C:\Users\Bruno Costa\projects\lab-prog\ap1\pratica\obj\Debug\net8.0\pratica.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Costa\projects\lab-prog\ap1\pratica\obj\Debug\net8.0\pratica.dll
+C:\Users\Bruno Costa\projects\lab-prog\ap1\pratica\obj\Debug\net8.0\refint\pratica.dll
+C:\Users\Bruno Costa\projects\lab-prog\ap1\pratica\obj\Debug\net8.0\pratica.pdb
+C:\Users\Bruno Costa\projects\lab-prog\ap1\pratica\obj\Debug\net8.0\pratica.genruntimeconfig.cache
+C:\Users\Bruno Costa\projects\lab-prog\ap1\pratica\obj\Debug\net8.0\ref\pratica.dll
